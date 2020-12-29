@@ -1,0 +1,7 @@
+{
+  "name": "auth-screen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
